@@ -1,0 +1,12 @@
+{
+ "num": 9,
+ "empresa": "EcoBrillo",
+ "subtitulo": "lavado de vehículos sin agua",
+ "contexto": "EcoBrillo quiere su parte de servicios cargado solo. Y quiere comprobar el agua que gasta cada furgoneta con los **contadores** del depósito, que ya registran sus lecturas.",
+ "preguntas": [
+  "¿Qué **tipo de lavado** deja menos ingreso por hora?",
+  "¿Qué **operario** gasta más agua por hora?",
+  "¿Qué **furgoneta** acumula más incidencias por cada 100 horas de servicio?",
+  "¿Qué furgoneta **gasta más agua por servicio**, medida por el contador? ¿Coincide con lo que dice el parte?"
+ ]
+}
